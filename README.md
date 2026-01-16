@@ -52,6 +52,7 @@ https://youtu.be/mdpJsoc7jY4?si=77quraJwT9SVpg1v
 
 ---
 
+![Dashboard Preview](Telecom Analysis Project_page-0001.jpg)
  
 
 
