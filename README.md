@@ -54,5 +54,4 @@ https://youtu.be/mdpJsoc7jY4?si=77quraJwT9SVpg1v
 
  
 
-```markdown
-![Dashboard Preview](images/dashboard.png)
+
