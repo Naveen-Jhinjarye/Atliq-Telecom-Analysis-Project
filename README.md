@@ -52,7 +52,12 @@ https://youtu.be/mdpJsoc7jY4?si=77quraJwT9SVpg1v
 
 ---
 
-![images](images/Telecom Analysis Project_page-0001.jpg)
+
+![Dashboard Page 1](https://raw.githubusercontent.com/Naveen-Jhinjarye/Atliq-Telecom-Analysis-Project/main/images/Telecom%20Analysis%20Project_page-0001.jpg)
+
+![Dashboard Page 2](https://raw.githubusercontent.com/Naveen-Jhinjarye/Atliq-Telecom-Analysis-Project/main/images/Telecom%20Analysis%20Project_page-0002.jpg)
+
+![Dashboard Page 3](https://raw.githubusercontent.com/Naveen-Jhinjarye/Atliq-Telecom-Analysis-Project/main/images/Telecom%20Analysis%20Project_page-0003.jpg)
  
 
 
